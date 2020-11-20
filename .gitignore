@@ -1,0 +1,7 @@
+.idea/*
+/build/*
+/dist/*
+*.egg-info
+/Pipfile.lock
+*/__pycache__/*
+db.sqlite3
