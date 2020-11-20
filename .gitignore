@@ -3,5 +3,5 @@
 /dist/*
 *.egg-info
 /Pipfile.lock
-*/__pycache__/*
+__pycache__
 db.sqlite3
